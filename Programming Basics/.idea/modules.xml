@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements/Conditional Statements.iml" filepath="$PROJECT_DIR$/Conditional Statements/Conditional Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements Advanced/Conditional Statements Advanced.iml" filepath="$PROJECT_DIR$/Conditional Statements Advanced/Conditional Statements Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements Advanced/Conditional Statements Advanced Exr 2/Conditional Statements Advanced Exr 2.iml" filepath="$PROJECT_DIR$/Conditional Statements Advanced/Conditional Statements Advanced Exr 2/Conditional Statements Advanced Exr 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements Advanced/Conditional Statements Advanced Exr 3/Conditional Statements Advanced Exr 3.iml" filepath="$PROJECT_DIR$/Conditional Statements Advanced/Conditional Statements Advanced Exr 3/Conditional Statements Advanced Exr 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements/Conditional Statements Exr 2/Conditional Statements Exr 2.iml" filepath="$PROJECT_DIR$/Conditional Statements/Conditional Statements Exr 2/Conditional Statements Exr 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exsam/Exsam.iml" filepath="$PROJECT_DIR$/Exsam/Exsam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exsam/Exsam_2/Exsam_2.iml" filepath="$PROJECT_DIR$/Exsam/Exsam_2/Exsam_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First Steps In Coding/First Steps In Coding.iml" filepath="$PROJECT_DIR$/First Steps In Coding/First Steps In Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For Loop/For Loop.iml" filepath="$PROJECT_DIR$/For Loop/For Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For Loop/For Loop_Exercise/For Loop_Exercise.iml" filepath="$PROJECT_DIR$/For Loop/For Loop_Exercise/For Loop_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For Loop/MoreExercise_ForLoop/MoreExercise_ForLoop.iml" filepath="$PROJECT_DIR$/For Loop/MoreExercise_ForLoop/MoreExercise_ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While Loop/MoreExercises_While_Loop/MoreExercises_While_Loop.iml" filepath="$PROJECT_DIR$/While Loop/MoreExercises_While_Loop/MoreExercises_While_Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nested Loops/More_Exercises_Nasted_Loops/More_Exercises_Nasted_Loops.iml" filepath="$PROJECT_DIR$/Nested Loops/More_Exercises_Nasted_Loops/More_Exercises_Nasted_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exsam/More_Projects_Exsams/More_Projects_Exsams.iml" filepath="$PROJECT_DIR$/Exsam/More_Projects_Exsams/More_Projects_Exsams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nested Loops/Nested Loops.iml" filepath="$PROJECT_DIR$/Nested Loops/Nested Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nested Loops/Nested_Loops_Exercise/Nested_Loops_Exercise.iml" filepath="$PROJECT_DIR$/Nested Loops/Nested_Loops_Exercise/Nested_Loops_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practis/Practis.iml" filepath="$PROJECT_DIR$/Practis/Practis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exsam/Projects_Exsams_02/Projects_Exsams_02.iml" filepath="$PROJECT_DIR$/Exsam/Projects_Exsams_02/Projects_Exsams_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Soft_Uni.iml" filepath="$PROJECT_DIR$/.idea/Soft_Uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While Loop/While Loop.iml" filepath="$PROJECT_DIR$/While Loop/While Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While Loop/While Loop_Exercise/While Loop_Exercise.iml" filepath="$PROJECT_DIR$/While Loop/While Loop_Exercise/While Loop_Exercise.iml" />
+    </modules>
+  </component>
+</project>
